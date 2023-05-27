@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>The Motoo Chhotoo Chintoo (aka Tobbler_)</h1>
-<p>The Tobbler_'s Discord: Motoo Chhotoo Chintoo#9435 (446899904372277268)</p>
+<p><b>The Tobbler_'s Discord:</b> Motoo Chhotoo Chintoo#9435 (446899904372277268)</p>
 </body>
 </html>
