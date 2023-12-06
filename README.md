@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>The Motoo Chhotoo Chintoo (aka Tobbler_)</h1>
-<p><b>My Discord:</b> lakitubupsucks</p>
+<p><b></p>
 </body>
 </html>
